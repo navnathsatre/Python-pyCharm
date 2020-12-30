@@ -1,0 +1,13 @@
+employee_name=input("Enter the name of employee")
+employee_no=int(input("Enter the no of employee"))
+sallary=float(input("Enter the sallary "))
+job=input("Enter the job")
+commition=int(input("Write commition "))
+dep_no=int(input("Enter department no "))
+
+print("Employee name is",employee_name)
+print("Employee_no is",employee_no)
+print(" \"sallary \" is ",sallary)
+print("job is ",job)
+print("commition is ",commition)
+print("Department no. is ",dep_no)
