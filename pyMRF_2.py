@@ -9,4 +9,4 @@ print(mobject)
 print(type(mobject))
 
 print("List of Square of nums using Map: ", list(mobject))
-print("Tuple of Square of nums using Map: ", tuple(mobject)) # only one at a time
+print("Tuple of Square of nums using Map: ", tuple(mobject))
