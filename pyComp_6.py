@@ -1,6 +1,6 @@
-s = "Welcome to the word of python programming"
+s = "Welcome to the world of Python Programming"
 
-#split
+# split
 lstWords = s.split(" ")
 print(lstWords)
 
@@ -9,6 +9,9 @@ print(lstWords)
 
 result = []
 for item in lstWords:
+    # t = (item, len(item))
+    # result.append(t)
+
     result.append((item, len(item)))
 
 print(result)

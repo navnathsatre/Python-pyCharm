@@ -1,8 +1,7 @@
-alphabets = ['a', 'b', 'c', 'd']
-fruits = ['apple', 'banana', 'cherry', 'dates']
+alphabets = ["a", "b", "c", "d"]
+fruits = ["apple", "banana", "cherry", "dates"]
 
-# using the above two lists, create a dictionary using dictionary comprehension
+# {"a": ("apple", 5), "b": ("banana", 6),... }
 
-
-result = {alphabets[item]: (fruits[item],len(fruits[item])) for item in range(0, len(alphabets))}
+result = {alphabets[item]: (fruits[item], len(fruits[item])) for item in range(0, len(alphabets))}
 print(result)
