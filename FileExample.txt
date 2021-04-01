@@ -1,0 +1,7 @@
+Welcome to file handling in Python.
+This is second line.
+Always close the file once the job is done.
+
+============================================
+Testing append operations on file.
+Done with append operations.
