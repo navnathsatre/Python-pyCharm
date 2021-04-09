@@ -1,0 +1,5 @@
+Opening the file.
+Enter the number: 
+The user entered number is : 1
+The result is: 100.0
+Closing the file.
